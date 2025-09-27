@@ -1,0 +1,31 @@
+html {
+  background-color: #f1f1f1;
+  font-family: Calibri, Arial;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: blue;
+}
+
+b {
+  font-weight: bold;
+}
+
+i {
+  font-style: italic;
+}
+
+u {
+  text-decoration: underline;
+}
+
+a {
+  text-decoration: none;
+}
+
+ol {
+  line-height: 1.5;
+}
